@@ -1,1 +1,1 @@
-# server-client-part
+# GameServer-client-part
